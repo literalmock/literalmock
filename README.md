@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on [Devmate](https://github.com/literalmock/DevMate)<br><br>    🌱 I’m currently learning Typescript,docker, bash/scripting and devops<br><br>    💬 Ask me about Node.js & Express,REST APIs & backend architecture,Authentication/Authorization,NOSQL<br><br>    📫 How to reach me linkedin.com/in/shivam-gupta-aa9370234<br><br>Connect with me:
+ 🔭 I’m currently working on [Devmate](https://github.com/literalmock/DevMate)<br><br>    🌱 I’m currently learning Typescript,docker, bash/scripting and devops<br><br>    💬 Ask me about Node.js & Express,REST APIs & backend architecture,Authentication/Authorization,NOSQL<br><br>    📫 How to reach me sg946511@gmail.com<br><br>Connect with me:
 
 
 ## 🌐 Socials:
