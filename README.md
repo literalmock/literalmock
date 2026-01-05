@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, This is Shivam</h1>
+<h1 align="center">Hey 👋, this is Shivam</h1>
 - 🔭 I’m currently working on [Devmate](https://github.com/literalmock/DevMate)
 
 - 🌱 I’m currently learning **Typescript,docker, bash/scripting and devops**
